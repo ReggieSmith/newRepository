@@ -1,0 +1,2 @@
+# newRepository
+git new reoisitiry
